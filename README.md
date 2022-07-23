@@ -1,4 +1,4 @@
-# notion_project
+#  Notion Project
 
 ## Project setup
 ```
